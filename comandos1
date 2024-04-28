@@ -8,16 +8,15 @@ mkdir quinta-region
 cd quinta-region
 touch lista.xls
 cd ..
-cd ..
 mkdir santiago
 cd santiago
-mkdir la pintana
-cd pintana
+mkdir la-pintana
+cd la-pintana
 touch lista.xls
 cd ..
 mkdir maipu
 cd maipu
-touch lista.xld
+touch lista.xls
 cd ..
 mkdir puente-alto
 cd puente-alto
