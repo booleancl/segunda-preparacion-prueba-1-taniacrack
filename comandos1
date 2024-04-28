@@ -2,3 +2,32 @@
 
 # Agregar las instrucciones para crear la estructura de carpetas
 cd distribuidora
+mkdir clientes
+cd clientes
+mkdir quinta-region
+cd quinta-region
+touch lista.xls
+cd ..
+cd ..
+mkdir santiago
+cd santiago
+mkdir la pintana
+cd pintana
+touch lista.xls
+cd ..
+mkdir maipu
+cd maipu
+touch lista.xld
+cd ..
+mkdir puente-alto
+cd puente-alto
+touch lista.xls
+cd ..
+mkdir renca
+cd renca
+touch lista.xls
+cd ..
+cd ..
+mkdir sexta-region
+cd sexta-region
+touch lista.xls
